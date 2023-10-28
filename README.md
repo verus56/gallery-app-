@@ -1,16 +1,22 @@
-# gallery
+# TP2 - Flutter Photo Gallery App
 
-A new Flutter project.
+## Introduction
 
-## Getting Started
+This Flutter application is a simple yet elegant photo gallery 
+By Thameur HAMZAOUI && Omari Hamza
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Grid view of images with two columns.
+- Smooth image transitions with Hero animations.
+- Full-screen photo viewer with the ability to swipe through images.
+- Zoom and pan functionality in the photo viewer.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+1. Make sure you have Flutter and Dart installed. If not, you can [get started with Flutter](https://flutter.dev/docs/get-started/install).
+
+2. Clone this repository to your local machine:
+
+
